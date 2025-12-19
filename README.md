@@ -165,6 +165,7 @@ To reduce jitter, we apply a **sliding-window majority vote**:
 
 ## 🎞️ Presentation
 - Final slides are in `presentations/` (see `FINAL_PRESENTATION.pptx`)
+- video presentation link: https://youtu.be/Hy_zWIgoBw0
 
 ---
 
