@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/review-assignment-due-date-f15d667ab976d596c.svg)](https://classroom.github.com/a/v3c0XywZ)
 # Edge-AI Waste Classification on OpenMV H7
 ECE 4332 / ECE 6332 — AI Hardware Design and Implementation  
 Fall 2025
